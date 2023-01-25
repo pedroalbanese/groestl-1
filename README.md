@@ -1,2 +1,2 @@
-# groestl-1
+# Groestl
 Hash function Grøstl – SHA-3 candidate
